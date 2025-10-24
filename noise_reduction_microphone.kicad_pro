@@ -510,6 +510,9 @@
       "5V_Input": [
         "Power"
       ],
+      "AUDIO_GND": [
+        "Power"
+      ],
       "GND": [
         "Power"
       ],
