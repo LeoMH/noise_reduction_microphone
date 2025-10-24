@@ -1408,6 +1408,7 @@
 		(property "Value" "AUDIO_R"
 			(at 0 2.05 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "d1f34fe4-1ec8-4bc4-9eca-10b26b4f8265")
 			(effects
 				(font
@@ -1511,6 +1512,7 @@
 		(property "Value" "5V"
 			(at 0 2.05 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "27dc7dc5-bfd4-434b-8968-d06cd35dead9")
 			(effects
 				(font
@@ -3484,6 +3486,7 @@
 		(property "Value" "Power/Audio"
 			(at 0 12.54 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "c68ca4ad-d612-4dc5-a1f4-4c58382e03fd")
 			(effects
 				(font
@@ -3770,6 +3773,7 @@
 		(property "Value" "3V"
 			(at 0 2.05 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "df74d872-f673-4354-9f16-95a53a522f7f")
 			(effects
 				(font
@@ -7518,6 +7522,7 @@
 		(property "Value" "CLK1"
 			(at 0 2.05 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "9485258e-47f7-4a0b-9fe2-6105b07a186a")
 			(effects
 				(font
@@ -7735,6 +7740,7 @@
 		(property "Value" "CLK2"
 			(at 0 2.05 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "cf6adb4f-55ca-4be6-8bc9-59355c1a16e8")
 			(effects
 				(font
@@ -7838,6 +7844,7 @@
 		(property "Value" "AUDIO_GND"
 			(at 0 2.05 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "f97ed032-6167-42be-9044-f94c7e934c1e")
 			(effects
 				(font
@@ -8307,6 +8314,7 @@
 		(property "Value" "MIC3_OUT"
 			(at 0 2.05 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "0f83a18d-346f-4276-9fb2-a99d3f9f37b8")
 			(effects
 				(font
@@ -10660,6 +10668,7 @@
 		(property "Value" "AUDIO_L"
 			(at 0 2.05 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "b1f8c091-93d8-4608-999a-d4e5632b3b73")
 			(effects
 				(font
@@ -11723,6 +11732,7 @@
 		(property "Value" "GND"
 			(at 0 2.05 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "da2a2e68-e3e7-41e6-b6bc-1f21bc08b3f5")
 			(effects
 				(font
@@ -12502,6 +12512,7 @@
 		(property "Value" "MIC1_OUT"
 			(at 0 2.05 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "7afb68a5-2923-40b9-9718-afd353ad4781")
 			(effects
 				(font
@@ -13225,6 +13236,7 @@
 		(property "Value" "WS"
 			(at 0 2.05 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "1821e019-d656-43d9-8a5d-18df59b01cf2")
 			(effects
 				(font
@@ -13694,6 +13706,7 @@
 		(property "Value" "MIC2_OUT"
 			(at 0 2.05 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "74b12185-7d70-4b31-a3ce-724c95a9eca8")
 			(effects
 				(font
@@ -14982,6 +14995,7 @@
 		(property "Value" "BCLK"
 			(at 0 2.05 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "039e3eb9-757b-47f0-9adb-b648e4a5ecb1")
 			(effects
 				(font
@@ -15931,6 +15945,7 @@
 		(property "Value" "MIC4_OUT"
 			(at 0 2.05 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "6901ee47-6522-4bd9-9401-5aa2bbc3e32d")
 			(effects
 				(font
@@ -17187,6 +17202,7 @@
 		(property "Value" "DAC_DIN"
 			(at 0 2.05 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "f831389a-9b4a-4da5-b5ee-daef66c311eb")
 			(effects
 				(font
